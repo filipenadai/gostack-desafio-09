@@ -21,6 +21,7 @@
   },
   "plugins": ["@typescript-eslint", "prettier"],
   "rules": {
+    "prefer-const": "off",
     "@typescript-eslint/no-unused-vars": [
       "error",
       {
